@@ -40,9 +40,5 @@ Containts
 
 
 
-	
-SCREENSHOT FOR FORM1 :-
 
-SCREENSHOT FOR FORM2 :-
-   
 
